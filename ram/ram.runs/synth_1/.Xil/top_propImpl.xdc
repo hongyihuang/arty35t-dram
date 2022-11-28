@@ -1,0 +1,11 @@
+set_property SRC_FILE_INFO {cfile:/home/hongyihuang/Desktop/Berkeley/bringup/ram/ram.srcs/constrs_1/new/arty35t.xdc rfile:../../../ram.srcs/constrs_1/new/arty35t.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN E3    IOSTANDARD LVCMOS33 } [get_ports { clk_in }]; #IO_L12P_T1_MRCC_35 Sch=gclk[100]
+set_property src_info {type:XDC file:1 line:31 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN H5    IOSTANDARD LVCMOS33 } [get_ports { led_pass }]; #IO_L24N_T3_35 Sch=led[4]
+set_property src_info {type:XDC file:1 line:32 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN J5    IOSTANDARD LVCMOS33 } [get_ports { led_fail }]; #IO_25_35 Sch=led[5]
+set_property src_info {type:XDC file:1 line:33 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN T9    IOSTANDARD LVCMOS33 } [get_ports { led_calib }]; #IO_L24P_T3_A01_D17_14 Sch=led[6]
+set_property src_info {type:XDC file:1 line:178 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN C2    IOSTANDARD LVCMOS33 } [get_ports { ck_rst }]; #IO_L16P_T2_35 Sch=ck_rst

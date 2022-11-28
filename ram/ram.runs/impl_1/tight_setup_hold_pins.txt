@@ -1,0 +1,10 @@
++====================+===================+===================================================================================+
+| Launch Setup Clock | Launch Hold Clock | Pin                                                                               |
++====================+===================+===================================================================================+
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/COUNTER.u_count/G_COUNTER[1].U_COUNTER/counter_reg[6]/D  |
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/COUNTER.u_count/G_COUNTER[1].U_COUNTER/counter_reg[8]/D  |
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/COUNTER.u_count/G_COUNTER[1].U_COUNTER/counter_reg[13]/D |
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/COUNTER.u_count/G_COUNTER[1].U_COUNTER/counter_reg[9]/D  |
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/COUNTER.u_count/G_COUNTER[2].U_COUNTER/counter_reg[10]/D |
+| clk_250_clk0       | clk_250_clk0      | ila_0/inst/ila_core_inst/u_ila_regs/TC_SRL[3].tc_srl_reg/current_state_reg[1]/D   |
++--------------------+-------------------+-----------------------------------------------------------------------------------+
